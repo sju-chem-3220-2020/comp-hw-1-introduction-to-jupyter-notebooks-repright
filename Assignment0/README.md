@@ -2,7 +2,7 @@
 
 This assignment will make sure that you have installed the Jupyter notebook on your laptop. It will also serve as an introduction to basic programming methods.
 
-# Computational Assignment 1
+# Computational Assignment 0
 
 Assigned Tuesday, 9-3-19
 
