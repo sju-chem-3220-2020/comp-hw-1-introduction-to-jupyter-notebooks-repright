@@ -1,5 +1,7 @@
 # First assignment, due before first lecture
 
+raw notebook file: [comp_assignment-0.ipynb](https://raw.githubusercontent.com/sju-pchem-classes/Chem-264/master/Assignment0/comp_assignment-0.ipynb)
+
 This assignment will make sure that you have installed the Jupyter notebook on your laptop. It will also serve as an introduction to basic programming methods.
 
 # Computational Assignment 0
@@ -24,3 +26,4 @@ Assigned Tuesday, 9-3-19
 1.	Follow directions on notebook.
 
 **Update:** When installing on Windows, make sure to select the add to path option
+To download the notebook file, you can save this link: [comp_assignment-0.ipynb](https://raw.githubusercontent.com/sju-pchem-classes/Chem-264/master/Assignment0/comp_assignment-0.ipynb)
