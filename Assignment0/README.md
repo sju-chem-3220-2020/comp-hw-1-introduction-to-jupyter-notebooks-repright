@@ -23,5 +23,4 @@ Assigned Tuesday, 9-3-19
 1.	Navigate to and open the file “comp_assignment-1.ipynb” (download it first).
 1.	Follow directions on notebook.
 
-
-
+**Update:** When installing on Windows, make sure to select the add to path option
