@@ -14,7 +14,7 @@ Assigned Tuesday, 9-3-19
 
 **Overall Learning Objective:** The goal of these assignments is to teach you how to perform physical calculations and analysis using modern and versatile scientific computing tools. In these assignments, we will be using the python programming language and scientific libraries to perform our calculations. We will use a notebook document as the environment where we perform our calculations. 
 
-**Assignment:** This first assignment will involve setting up the Jupyter notebook on your laptop and running your first line of code. Notebooks are documents that can include code, rich text, graphics, and equations. They code in these documents can be run in real time to perform calculations. You can think of it as a computational combination between a lab manual and a lab bench!
+**Assignment:** This zeroth assignment will involve setting up the Jupyter notebook on your laptop and running your first line of code. Notebooks are documents that can include code, rich text, graphics, and equations. They code in these documents can be run in real time to perform calculations. You can think of it as a computational combination between a lab manual and a lab bench!
 
 **Procedure:**
 
