@@ -1,6 +1,7 @@
 # First assignment, due before first lecture
 
 Assignment Notebook File: [comp_assignment-0.ipynb](https://raw.githubusercontent.com/sju-chem264-2019/intro-to-jupyter/master/comp_assignment-0.ipynb)
+You can right click the link to `save link as`
 
 This assignment will make sure that you have installed the Jupyter notebook on your laptop. It will also serve as an introduction to basic programming methods.
 
