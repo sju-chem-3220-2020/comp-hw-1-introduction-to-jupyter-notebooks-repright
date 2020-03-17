@@ -1,14 +1,6 @@
-# First assignment, due before first lecture
+# Computational Assignment 1
 
-Assignment Notebook File: [comp_assignment-0.ipynb](https://raw.githubusercontent.com/sju-chem264-2019/intro-to-jupyter/master/comp_assignment-0.ipynb)
-You can right click the link to `save link as`
-
-This assignment will make sure that you have installed the Jupyter notebook on your laptop. It will also serve as an introduction to basic programming methods.
-
-# Computational Assignment 0
-
-Assigned Tuesday, 9-3-19
-
+Assigned Tuesday, 3-17-20
 
 **Justification:** Most modern physical chemistry requires some sort of computational calculation, simulation and analysis. Most problems are too complex to solve analytically and using a computer to arrive a numerical solution can give very useful physical insights into chemical problems. 
 
