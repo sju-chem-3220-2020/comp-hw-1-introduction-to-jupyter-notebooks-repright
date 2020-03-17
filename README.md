@@ -19,4 +19,3 @@ Assigned Tuesday, 3-17-20
 1.	Follow directions on notebook.
 
 **Update:** When installing on Windows, make sure to select the add to path option
-To download the notebook file, you can save this link: [comp_assignment-0.ipynb](https://raw.githubusercontent.com/sju-pchem-classes/Chem-264/master/Assignment0/comp_assignment-0.ipynb)
